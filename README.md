@@ -1,0 +1,2 @@
+# mall-server-config
+test
